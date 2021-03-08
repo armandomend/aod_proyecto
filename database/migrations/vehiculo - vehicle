@@ -1,0 +1,19 @@
+vehiculo - vehicle
+
+--atributos --
+id 
+marca
+modelo
+color
+no_serie
+no_placas
+no_puertas
+no_asientos
+kilometraje
+cilindraje
+precio_venta
+precio_compra
+descripcion
+comentario
+disponibles
+-----------------------
